@@ -1,6 +1,8 @@
+import { Heading, Text } from '@ignite-ui/react';
+
 export default function Home() {
   return (
 
-    <h1>hello world</h1>
+    <Heading as='h1'>hello world</Heading>
   );
 }
